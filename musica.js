@@ -34,3 +34,4 @@ rl.question("Que nombre quiere ponerle?", (respuesta) => {
   musica(patron1,bass1,respuesta);
   rl.close();
 });
+/// todo esto fue hecho por mi, ranon rat . solo subi esto para papi freddy pero todo lo hice yo
